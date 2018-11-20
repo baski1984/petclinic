@@ -1,1 +1,1 @@
-# petclinic
+# petclinic has been modified for 0 touch deployment
